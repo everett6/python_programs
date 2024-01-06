@@ -24,11 +24,6 @@ while True:
     if b.lower()=="y" or b.lower=="yes":
         print("ok")
         break 
-    
-
-
-
-
 
 surnames=["a","b","c","d","e"]
 for position, surname in enumerate(surnames):

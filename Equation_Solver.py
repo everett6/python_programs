@@ -40,6 +40,4 @@ for i in range(question):
     
     answer=quadratic_function_solver(a,b,c)
     print("The answer is", answer)
-
-
     

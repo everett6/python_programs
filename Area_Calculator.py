@@ -39,7 +39,6 @@ def validation(shape,shape_names):
         if s==shape:
             return True
     return shape=="quit"
-    
 
 starttime=time.time()
 for i in range(question):

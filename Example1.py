@@ -70,5 +70,3 @@ for i in range(question):
         side=float(input("What is the side: "))
         perimeter= perimeter_of_hexagon(side)
         print("The perimeter is ", perimeter)
-
-
